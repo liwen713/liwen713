@@ -1,4 +1,3 @@
-- liwen albrecht
 - 2007
 - ella
 
